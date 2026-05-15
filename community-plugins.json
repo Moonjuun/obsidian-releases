@@ -24760,7 +24760,7 @@
   },
   {
     "id": "deepgram-meeting-stt",
-    "name": "Deepgram Meeting STT",
+    "name": "VoxNote — Meeting Transcription & AI Summary",
     "author": "Moonjuun",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Transcribe meeting recordings with the Deepgram speech-to-text API.",
     "repo": "moonjuun/obsidian-deepgram-stt"
